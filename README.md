@@ -24,7 +24,7 @@ Buckshot Roulette — это Telegram-бот, разработанный с ис
 1. **Клонируйте репозиторий:**
 
     ```bash
-    git clone https://github.com/yourusername/buckshot-roulette-bot.git
+    git clone https://github.com/tocoming/buckshot-roulette-bot.git
     cd buckshot-roulette-bot
     ```
 
